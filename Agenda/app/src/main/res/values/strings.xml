@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="toolBar_label">NOMBRE Y APELLIDOS</string>
+    <string name="add_button">+1</string>
+    <string name="power_button">power</string>
+    <string name="title">Agencia de contactos AMORE MIO</string>
+    <string name="insertarTitle">ENTRADA DE DATOS</string>
+    <string name="nombre">Nombre</string>
+    <string name="intereses">Intereses</string>
+    <string name="salvarDatos">Salvar Datos</string>
+    <string name="salirSinGuardar">Salir sin guardar</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="imagen">Imagen</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Editar</string>
+    <string name="editarDatos">Editar Datos</string>
+</resources>
